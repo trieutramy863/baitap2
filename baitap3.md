@@ -58,5 +58,6 @@ DEADLINE: 23H59 NGÀY 30/03/2025
 ![Screenshot 2025-03-28 102806](https://github.com/user-attachments/assets/41810685-faee-4a92-8bb7-4351942a84ea)
 # DKMH
 ![Screenshot 2025-03-25 181204](https://github.com/user-attachments/assets/82e53080-e5ef-41fc-b32a-3ff50061ebcc)
-
-
+# Đây là đoạn code truy vấn thành công
+# xuất file dữ liệu của DB (bai_tap_3_schema.sql)
+# Xuất dữ liệu đã nhập (Bai_tap_3_data.sql)
