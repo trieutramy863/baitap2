@@ -41,4 +41,21 @@ DEADLINE: 23H59 NGÀY 30/03/2025
 # Đặt điều kiện cho bảng điểm 
 # đặt khoá ngoại
 ![Screenshot 2025-03-28 095902](https://github.com/user-attachments/assets/7687486c-d1ca-4dd8-868a-327e83850026)
+![Screenshot 2025-03-29 230541](https://github.com/user-attachments/assets/0f2b463f-9f8d-4b18-9f18-297428e5ecbb)
+# Đặt check cho bảng điểm
+![Screenshot 2025-03-28 095839](https://github.com/user-attachments/assets/f386bacb-fbae-475a-b9bf-9f5c37f25290)
+![Screenshot 2025-03-28 095902](https://github.com/user-attachments/assets/318e20d5-7e67-4ba1-b275-4ef9382c15c5)
+# Mô tả các PK,FK,của BD
+![Screenshot 2025-03-28 103102](https://github.com/user-attachments/assets/99320395-f731-4e1b-9499-151c81e48cb3)
+# Đây là code truy vấn từ những bảng sau đây
+# Bảng sinh viên
+![Screenshot 2025-03-29 230818](https://github.com/user-attachments/assets/d51d2ec3-bece-4fce-8078-b5d877f13bb8)
+# Bảng học phần
+![Screenshot 2025-03-28 102806](https://github.com/user-attachments/assets/9dc869ac-e942-4215-a787-4b76353969d7)
+# Bảng môn học 
+![Screenshot 2025-03-29 230929](https://github.com/user-attachments/assets/ccb044fa-ec75-494e-a276-20dcc30fc42c)
+# Điểm
+![Screenshot 2025-03-28 095839](https://github.com/user-attachments/assets/63b69b10-6f5f-4ee2-b096-205bd0e6f9df)
+# DKMH
+![Screenshot 2025-03-28 095756](https://github.com/user-attachments/assets/8f3f5ab6-31bc-4177-a8ce-84a64bf048d0)
 
