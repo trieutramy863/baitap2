@@ -34,4 +34,11 @@ HÌNH THỨC LÀM BÀI:
 8. nhớ commit để save nội dung file bai_tap3.md
 
 DEADLINE: 23H59 NGÀY 30/03/2025
+## Tạo bảng điểm
+![Screenshot 2025-03-28 095839](https://github.com/user-attachments/assets/5121e62d-1f21-44ae-9e32-3aefcb2a4b8c)
+## Đây là bảng đã được sửa
+![Screenshot 2025-03-29 230414](https://github.com/user-attachments/assets/73ff658a-6959-4730-b063-96e743e38160)
+# Đặt điều kiện cho bảng điểm 
+# đặt khoá ngoại
+![Screenshot 2025-03-28 095902](https://github.com/user-attachments/assets/7687486c-d1ca-4dd8-868a-327e83850026)
 
