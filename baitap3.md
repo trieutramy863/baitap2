@@ -51,11 +51,12 @@ DEADLINE: 23H59 NGÀY 30/03/2025
 # Bảng sinh viên
 ![Screenshot 2025-03-29 230818](https://github.com/user-attachments/assets/d51d2ec3-bece-4fce-8078-b5d877f13bb8)
 # Bảng lớp học phần
-![Screenshot 2025-03-28 102806](https://github.com/user-attachments/assets/9dc869ac-e942-4215-a787-4b76353969d7)
+![image](https://github.com/user-attachments/assets/bb8bc1d4-eaae-466e-abd5-fafef4a1b2a1)
 # Bảng môn học 
 ![Screenshot 2025-03-29 230929](https://github.com/user-attachments/assets/ccb044fa-ec75-494e-a276-20dcc30fc42c)
 # Điểm
 ![Screenshot 2025-03-28 102806](https://github.com/user-attachments/assets/41810685-faee-4a92-8bb7-4351942a84ea)
 # DKMH
-![Screenshot 2025-03-28 095756](https://github.com/user-attachments/assets/8f3f5ab6-31bc-4177-a8ce-84a64bf048d0)
+![Screenshot 2025-03-25 181204](https://github.com/user-attachments/assets/82e53080-e5ef-41fc-b32a-3ff50061ebcc)
+
 
