@@ -50,7 +50,7 @@ DEADLINE: 23H59 NGÀY 30/03/2025
 # Đây là code truy vấn từ những bảng sau đây
 # Bảng sinh viên
 ![Screenshot 2025-03-29 230818](https://github.com/user-attachments/assets/d51d2ec3-bece-4fce-8078-b5d877f13bb8)
-# Bảng học phần
+# Bảng lớp học phần
 ![Screenshot 2025-03-28 102806](https://github.com/user-attachments/assets/9dc869ac-e942-4215-a787-4b76353969d7)
 # Bảng môn học 
 ![Screenshot 2025-03-29 230929](https://github.com/user-attachments/assets/ccb044fa-ec75-494e-a276-20dcc30fc42c)
